@@ -48,13 +48,3 @@ elif z in ["INT","Int","int"]:
     print("Output:",q)
 else:
     pass
-
-
-
-
-
-
-
-
-
-
