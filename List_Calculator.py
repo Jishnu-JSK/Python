@@ -34,18 +34,28 @@ while True:
     ''')
     if z in ["ADD","Add","add"]:
         x=e+j
-    print("Output:",x)
-elif z in ["SUB","Sub","sub"]:
-    y=e-j
-    print("Output:",y)
-elif z in ["MULTI","Multi","multi"]:
-    w=e*j
-    print("Output:",w)
-elif z in ["FLOOR","Floor","floor"]:
-    l=e/j
-    print("Output:",l)
-elif z in ["INT","Int","int"]:
-    q=e//j
-    print("Output:",q)
-else:
-    pass
+        print("Output:",x)
+    elif z in ["SUB","Sub","sub"]:
+        y=e-j
+        print("Output:",y)
+    elif z in ["MULTI","Multi","multi"]:
+        w=e*j
+        print("Output:",w)
+    elif z in ["FLOOR","Floor","floor"]:
+        l=e/j
+        print("Output:",l)
+    elif z in ["INT","Int","int"]:
+        q=e//j
+        print("Output:",q)
+    else:
+        pass
+
+
+
+
+
+
+
+
+
+
