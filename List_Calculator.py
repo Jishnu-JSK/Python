@@ -49,13 +49,3 @@ while True:
         print("Output:",q)
     else:
         pass
-
-
-
-
-
-
-
-
-
-
